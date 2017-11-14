@@ -1,0 +1,13 @@
+{
+    "memo": "9bec30711d03e5e42f987da98945b148761169533c6a3c93263d6a072e962089",
+    "projects": [
+        {
+            "name": "github.com/skratchdot/open-golang",
+            "branch": "master",
+            "revision": "75fb7ed4208cf72d323d7d02fd1a5964a7a9073c",
+            "packages": [
+                "open"
+            ]
+        }
+    ]
+}
